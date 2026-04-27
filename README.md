@@ -25,3 +25,8 @@ Files Included
 A_star_search.py – A* algorithm implementation
 A_star_search_testcase.py – test case execution
 output.png – program output screenshot
+
+## Program Output
+
+![A* Output](output.png)
+
